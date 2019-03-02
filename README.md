@@ -1,2 +1,3 @@
-# snippets
-snippets for me
+# snippets for me
+
+static qmake for windows
